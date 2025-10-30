@@ -1,6 +1,6 @@
-# 🧩 Deterministic DEX Matching Simulator
+#  Deterministic DEX Matching Simulator
 
-### 🚀 Overview
+###  Overview
 
 The **Deterministic DEX Matching Simulator** is a concept project that demonstrates how **Raiku’s deterministic execution** can transform decentralized exchange (DEX) trading on Solana.
 
@@ -10,7 +10,7 @@ By leveraging **Raiku’s Ahead-of-Time (AOT)** and **Just-in-Time (JIT)** slot 
 
 ---
 
-### ⚙️ Problem
+### Problem
 
 On current Solana DEXs:
 - Transaction order is determined by validator timing and gas priority.
@@ -22,7 +22,7 @@ This results in **execution uncertainty**, **unfair trading**, and **institution
 
 ---
 
-### 💡 Solution
+### Solution
 
 Raiku introduces **deterministic execution** — a model where:
 - Developers can **schedule** transaction slots ahead of time (AOT).  
@@ -34,7 +34,7 @@ The **Deterministic DEX Matching Simulator** makes this concept tangible through
 
 ---
 
-### 🧠 Concept Design
+### Concept Design
 
 #### 1. Trade Flow Simulation
 
